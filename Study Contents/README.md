@@ -7,9 +7,11 @@
 
 # O que é Rest - Representational State Transfer ?
 Irá determinar obrigações durante uma transferência de dados
+Estilo arquitetural que define um conjunto de restrições para criar serviços web.
  - É comum o uso do protocolo HTTP
 
 # O que é a RestFul?
+Refere-se a uma implementação que segue os princípios do REST.
 ### Obrigações de uma API para ser RestFul
 
  - _Uniform Interface:_ Padrão de construção de uma API
@@ -26,7 +28,5 @@ Irá determinar obrigações durante uma transferência de dados
         - URI/ ENDPOINT
 - _Code on Demand (OPCIONAL):_  uma aplicação pode pegar códigos e com isso executar no cliente
 
-
-
 # o que é SOAP?
-_em construção_
+Usa um conjunto de regras para definir como as mensagens são formatadas e processadas.
